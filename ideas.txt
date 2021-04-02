@@ -14,3 +14,21 @@ implement search method
     //    date range?
     //    subject
     //    keyword in body?
+
+		Press any key to continue...
+
+		Delete multiple emails at once (maybe)
+ability to favorite emails
+move to spam
+
+settings for users
+
+confirm password
+
+adding encryption/decryption
+
+use regular expressions to verify email is valid email
+
+forwarding emails to another user
+
+when user displays folder replace emails with displayed folder
