@@ -1,5 +1,5 @@
 # Local-Email-Client
-### by Samuel Menaged, Justice Smith, and Jason Lam
+### by Samuel Menaged, Justice Smith, and [Jason Lam](https://github.com/jasonmlam)
 
 ### Functionalities:
 - Create email client
